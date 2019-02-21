@@ -1,0 +1,14 @@
+{
+  "name": "playingwithbrainjs",
+  "version": "1.0.0",
+  "description": "Playing with neural nets with brain.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "brain.js": "^1.6.1"
+  }
+}
